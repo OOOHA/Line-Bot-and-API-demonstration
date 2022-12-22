@@ -22,7 +22,7 @@ I **DO NOT** recommand this app at all because of the reasons below:
 
 * [ ] A computer
 
-* [ ] Ngrok authorizationth key
+* [ ] Ngrok authorizationth key[Ngrok site](https://ngrok.com/)
 
 * [ ] Taiwanese Central Weather Bureau API authorizationth key ([Website](https://opendata.cwb.gov.tw/index))
 * [ ] Google colab  ([about colab](https://research.google.com/colaboratory/faq.html#:~:text=Using%20Colab&text=Colab%20notebooks%20are%20stored%20in,Google%20Drive%20file%20sharing%20instructions.))
