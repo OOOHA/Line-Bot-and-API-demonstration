@@ -99,7 +99,10 @@ def connNgrok():
 The reason is because API provider might change the key word in their **JSON** file.
 
 ```python
-
+line_bot_api = LineBotApi('Line bot channel access token')
+access_token = 'Line bot channel access token'
+channel_secret = 'Line bot channel secret'
+code = 'Taiwan Central Weather Bureau API key'
 ```
 
 ```python
